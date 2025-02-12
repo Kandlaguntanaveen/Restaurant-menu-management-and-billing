@@ -33,4 +33,4 @@ The Restaurant Billing and Menu Management System is designed to simplify the pr
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/restaurant-billing-menu-management.git
+   git@github.com:Kandlaguntanaveen/menu-management-and-restaurant-billing.git
