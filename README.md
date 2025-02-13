@@ -1,5 +1,7 @@
 # Restaurant Billing and Menu Management System
 
+# Hi naveen how r u
+
 ## Project Description
 The Restaurant Billing and Menu Management System is designed to simplify the process of managing a restaurant's menu and customer orders. It allows users to manage menu items, including adding, updating, and removing items, as well as setting and changing prices. The system also calculates the total bill for customer orders, ensuring accurate billing.
 
