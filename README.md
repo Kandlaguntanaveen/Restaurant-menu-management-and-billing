@@ -14,7 +14,6 @@ The Restaurant Billing and Menu Management System is designed to simplify the pr
 ## Technologies Used
 - Programming Language: [c.]
 - Platforms run the program: [online gcc/visual Studio Code/ubuntu.]
-- Terminal:  [Command line interface]
 - compiler verstiopn: [gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0]
   
 ## How to Use
